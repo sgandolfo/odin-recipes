@@ -1,4 +1,14 @@
 # ODIN-RECIPES APP
 ## This is my first project for the Odin Project
 
-Photo by <a href="https://unsplash.com/@robwicks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Rob Wicks</a> on <a href="https://unsplash.com/photos/a-white-plate-topped-with-spaghetti-and-bacon-fDLBn8X_IlU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+I created this website for the Odin Project where I am learning Full Stack Web Development.
+
+As part of the curriculum this website is just the first of many projects to train, and show, my web development skills.
+
+### Attributes
+
+The following contains a list of attributes for the images used on this website
+
+1. Spaghetti Carbonara: Rob Wicks
+2. Spaghetti Aglio, Olio e Peperoncione: Reka Biro-Horvath
+3. Pasta alla Norma: Muesse (https://commons.wikimedia.org/wiki/User:Muesse)
